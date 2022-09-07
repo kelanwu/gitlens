@@ -1,1 +1,0 @@
-<image joint-selector="icon" id="v-77" x="5" y="0" width="30" height="30" xlink:href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%2210%2010%2020%2020%22%3E%3Cpath%20fill%3D%22%23333333%22%20d%3D%22M12.5%2014.344l7.5%205.625%207.5-5.625zm0%20.937v9.375h15v-9.375L20%2020.906z%22%2F%3E%3C%2Fsvg%3E" data-icon-type="send"></image>
